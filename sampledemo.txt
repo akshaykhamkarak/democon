@@ -1,5 +1,9 @@
 master
 
+<<<<<<< HEAD
 master to nb
 
 again come to master
+=======
+master to nb
+>>>>>>> nb
